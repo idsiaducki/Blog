@@ -14,17 +14,23 @@ Pegue a vontade de comer uma pizza, você pode fazer tudo em casa e realizar tod
 
 ## “Pizza como um Serviço” é um exemplo bastante simples:
 
-> Fazer a Pizza em Casa – Você faz uma pizza em casa, onde você é responsável por comprar todos os ingredientes inclusive fazer a massa, assa ela em casa, prepara a mesa para se comer, assim como a bebida é por sua conta.
-> Comprar a Pizza – Você comprar a pizza mas você a assa ela em casa, prepara a mesa para se comer, assim como a bebida é por sua conta.
-> Pizza Delivery – Você pede a pizza em casa e ela já vem assada, sua única missão é preparar a mesa para se comer, assim como a bebida é por sua conta.
-> Jantar Fora- Você não precisa se preocupar com nada, tudo já é fornecido, não precisa fazer a pizza, não precisa assar, não precisa preparar a mesa e até o refrigerante é só solicitar, sua função é apenas comer a pizza.
+> 1 - Fazer a Pizza em Casa – Você faz uma pizza em casa, onde você é responsável por comprar todos os ingredientes inclusive fazer a massa, assa ela em casa, prepara a mesa para se comer, assim como a bebida é por sua conta.
+> 
+> 2 - Comprar a Pizza – Você comprar a pizza mas você a assa ela em casa, prepara a mesa para se comer, assim como a bebida é por sua conta.
+> 
+> 3 - Pizza Delivery – Você pede a pizza em casa e ela já vem assada, sua única missão é preparar a mesa para se comer, assim como a bebida é por sua conta.
+> 
+> 4 - Jantar Fora- Você não precisa se preocupar com nada, tudo já é fornecido, não precisa fazer a pizza, não precisa assar, não precisa preparar a mesa e até o refrigerante é só solicitar, sua função é apenas comer a pizza.
 
 ### Ou seja temos:
 
-> On-Premises(Modelo Puro) –  Tudo tem que ser provido por quem necessita do produto final, desde o espaço físico para se conseguir entregar o desejado, no caso a pizza, até todo o equipamento como forno, fogão, gás, luz elétrica, mesa, bebidas e assim que tudo estiver pronto, você vai poder consumir o produto(comer a pizza).
-> IAAS (Infraestrutura como serviço) – A infraestrutura (nesse caso o da pizza) já vem pronta, você não precisa se preocupar com ela, somente se preocupa com a preparação dela, torna um produto final, que é assar e deixar a mesa e a bebida junto para que ela seja consumida.
-> PAAS (Plataforma como serviço) –  A infraestrutura (nesse caso o da pizza) já vem pronta e preparação dela já vem pronta, somente se preocupa com a preparação dela em relação a utilização do usuário final, que é deixar a mesa e a bebida junto para que ela seja consumida.
-> SAAS (Software como serviço) – Você não precisa se preocupar, pois tudo já vem pronto, é um produto já consumível, comprou, usou
+> 1 - On-Premises(Modelo Puro) –  Tudo tem que ser provido por quem necessita do produto final, desde o espaço físico para se conseguir entregar o desejado, no caso a pizza, até todo o equipamento como forno, fogão, gás, luz elétrica, mesa, bebidas e assim que tudo estiver pronto, você vai poder consumir o produto(comer a pizza).
+> 
+> 2 - IAAS (Infraestrutura como serviço) – A infraestrutura (nesse caso o da pizza) já vem pronta, você não precisa se preocupar com ela, somente se preocupa com a preparação dela, torna um produto final, que é assar e deixar a mesa e a bebida junto para que ela seja consumida.
+> 
+> 3 - PAAS (Plataforma como serviço) –  A infraestrutura (nesse caso o da pizza) já vem pronta e preparação dela já vem pronta, somente se preocupa com a preparação dela em relação a utilização do usuário final, que é deixar a mesa e a bebida junto para que ela seja consumida.
+> 
+> 4 - SAAS (Software como serviço) – Você não precisa se preocupar, pois tudo já vem pronto, é um produto já consumível, comprou, usou
 
 ```
 Eae, o que achou? mais fácil de entender? deixe seus comentários.
