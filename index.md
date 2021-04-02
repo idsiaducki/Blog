@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Pizza as a Service – O que é IAAS,PAAS,SAAS de maneira simples.
+# Pizza as a Service
+## O que é IAAS,PAAS,SAAS de maneira simples.
 
 Hoje em dia quem trabalha com tecnologia tem o hábito de falar sobre termos e siglas que não são conhecidos para a maioria das pessoas, tornando isso uma linguagem muito difícil de ser compreendida. Essa situação tem se tornado mais grave com as decisões sobre compras e estratégias migrando da TI para as áreas de negócio. Com isso, boa parte da linguagem utilizada por fornecedores e tecnólogos acaba virando uma língua desconhecida para o interlocutor.
 
